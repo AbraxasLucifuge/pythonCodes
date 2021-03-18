@@ -1,0 +1,2 @@
+String: qwert , Reversed string: trewq 
+String: asdfg , Reversed string: gfdsa 
